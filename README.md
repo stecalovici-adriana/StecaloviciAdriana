@@ -3,8 +3,6 @@
 
 # How To Reach Me
 <a href="https://www.facebook.com/adriana.stecalovici">
-<body>
-
 <div class="gallery">
   <a target="_blank" href="Facebook-logo.jpg">
     <img src="Facebook-logo.jpg"   float= "left" width= "50px"  width= "100%" height= "auto" padding= "15px">
@@ -18,6 +16,4 @@
     <img src="img_forest.jpg" float= "left" width= "50px" width= "100%" height= "auto" padding= "15px">
   </a>
 </div>
-
-</body>
 </a>
