@@ -4,4 +4,4 @@
 # How To Reach Me
 
 <a href="https://www.facebook.com/adriana.stecalovici">
-  <img src="Facebook-logo.jpg" width="500px" ></a>
+  <img src="Facebook-logo.jpg" width="50px" ></a>
