@@ -5,8 +5,32 @@
 
 <a href="https://www.facebook.com/adriana.stecalovici">
   
+<html>
+<head>
+<style>
+div.gallery {
+  margin: 5px;
+  
+  float: left;
+  width: 50px;
+}
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
+</head>
 <body>
-<center>
+
 <div class="gallery">
   <a target="_blank" href="Facebook-logo.jpg">
     <img src="Facebook-logo.jpg"  width="50px" >
@@ -21,14 +45,6 @@
   
 </div>
 
-<div class="gallery">
-  <a target="_blank" href="img_lights.jpg">
-    <img src="img_lights.jpg" width="50px">
-  </a>
-
-</div>
- 
-</div>
- </center>
 </body>
+</html>
 </a>
