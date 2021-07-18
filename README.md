@@ -10,9 +10,7 @@
 </div>
 </a>
 <a href="https://www.instagram.com/adriana.stecalovici/">
-<div class="gallery">
-  <a target="_blank" href="https://user-images.githubusercontent.com/73295028/126076207-e5e92bd6-80ee-4920-bd4b-f6d38974a8be.png">
     <img src="https://user-images.githubusercontent.com/73295028/126076207-e5e92bd6-80ee-4920-bd4b-f6d38974a8be.png"  float= "left" width= "50px"  width= "100%" height= "auto" padding= "15px">
   </a>
-</div>
+
   </a>
